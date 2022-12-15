@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Braneshp24
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in learn Data Analysis
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on new python project
 - 📫 How to reach me braneshp24@gmail.com
